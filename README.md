@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cport101
 - 👀 I’m interested in devOps 
-- 🌱 I’m currently learning python3 
+- 🌱 I’m currently mastering python3 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cport@rawbw.com
 
